@@ -32,11 +32,17 @@ const jokesSlice = createSlice({
       if (!state.favorites.find((joke) => joke.id === jokeToFav.id)) {
         state.favorites.push(jokeToFav);  
       }
+    },
+    removejoke(state, action) {
+      const jokeToRemove = action.payload;
+    
+      state.favorites = state.favorites.filter((joke) => joke.id !== jokeToRemove.id);
     }
+    
     
   },
 });
 
-export const { setJoke, setLoading, setError,addFavorite } = jokesSlice.actions;
+export const { setJoke, setLoading, setError,addFavorite,removejoke} = jokesSlice.actions;
 
 export default jokesSlice.reducer;
