@@ -1,0 +1,85 @@
+{
+    "jokes": [
+      {
+        "id": 1,
+        "joke": "Why don't skeletons fight each other? They don't have the guts."
+      },
+      {
+        "id": 2,
+        "joke": "Why did the scarecrow win an award? Because he was outstanding in his field."
+      },
+      {
+        "id": 3,
+        "joke": "I told my wife she was drawing her eyebrows too high. She looked surprised."
+      },
+      {
+        "id": 4,
+        "joke": "Why don't oysters donate to charity? Because they are shellfish."
+      },
+      {
+        "id": 5,
+        "joke": "I used to play piano by ear, but now I use my hands."
+      },
+      {
+        "id": 6,
+        "joke": "Why did the tomato turn red? Because it saw the salad dressing."
+      },
+      {
+        "id": 7,
+        "joke": "I'm reading a book on anti-gravity. It's impossible to put down!"
+      },
+      {
+        "id": 8,
+        "joke": "Why was the math book sad? It had too many problems."
+      },
+      {
+        "id": 9,
+        "joke": "Parallel lines have so much in common. It's a shame they'll never meet."
+      },
+      {
+        "id": 10,
+        "joke": "I told my wife she was getting too emotional during our argument. She took it personally."
+      },
+      {
+        "id": 11,
+        "joke": "How do you organize a space party? You planet!"
+      },
+      {
+        "id": 12,
+        "joke": "Why don't seagulls fly over the bay? Because then they'd be bagels!"
+      },
+      {
+        "id": 13,
+        "joke": "I went to buy some camo pants, but couldn’t find any."
+      },
+      {
+        "id": 14,
+        "joke": "Why did the bicycle fall over? Because it was two-tired."
+      },
+      {
+        "id": 15,
+        "joke": "I told my computer I needed a break, and now it won’t stop sending me Kit-Kats."
+      },
+      {
+        "id": 16,
+        "joke": "Why did the coffee file a police report? It got mugged!"
+      },
+      {
+        "id": 17,
+        "joke": "I asked the librarian if the library had any books on paranoia. She whispered, \"They're right behind you.\""
+      },
+      {
+        "id": 18,
+        "joke": "I broke my pencil. Now it’s pointless."
+      },
+      {
+        "id": 19,
+        "joke": "Why do cows have hooves instead of feet? Because they lactose."
+      },
+      {
+        "id": 20,
+        "joke": "What do you get when you cross a snowman and a vampire? Frostbite!"
+      }
+    ]
+  }
+  
