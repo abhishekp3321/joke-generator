@@ -36,7 +36,7 @@ const Favorites = () => {
                     
                 </div>
 
-                <Link to="/joke">
+                <Link to="/">
                     <div className="mt-4 text-center text-blue-400 underline">
                     <button className="w-full bg-green-600 text-white py-2 rounded-md hover:bg-green-700 transition duration-200">
 
